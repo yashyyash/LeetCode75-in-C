@@ -1,2 +1,2 @@
 # Starting My Leetcode Journey Today !! 
-I will try to solve and push one solution per day!!
+I will try to push one solution per day!!
